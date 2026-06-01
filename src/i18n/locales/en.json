@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Senior Android and Frontend Developer",
+    "subtitle": "Building premium portfolio experiences with React, Next.js, and polished UI motion.",
+    "ctaPrimary": "View Projects",
+    "ctaSecondary": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I build production-ready web and mobile experiences with a focus on architecture, performance, and maintainable UI systems."
+  }
+}
